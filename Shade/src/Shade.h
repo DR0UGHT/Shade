@@ -3,6 +3,7 @@
 // For use by Shade applications
 
 #include "Shade/Application.h"
+#include "Shade/Log.h"
 #include <stdio.h>
 
 // ---Entry Point---------------------

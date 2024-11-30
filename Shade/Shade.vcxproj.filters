@@ -27,9 +27,15 @@
     <ClInclude Include="src\Shade\EntryPoint.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="src\Shade\Log.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="src\Shade\Application.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="src\Shade\Log.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
