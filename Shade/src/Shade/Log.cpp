@@ -1,3 +1,4 @@
+#include "sdpch.h"
 #include "Log.h"
 
 namespace Shade {

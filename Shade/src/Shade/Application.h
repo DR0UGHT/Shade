@@ -1,6 +1,9 @@
 #pragma once
 
 #include "Core.h"
+#include "Shade/Events/Event.h"
+#include "Shade/Events/ApplicationEvent.h"
+#include "Shade/Log.h"
 
 namespace Shade
 {
